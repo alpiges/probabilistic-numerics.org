@@ -12,10 +12,6 @@ Four minisymposia on *probabilistic numerical methods* were scheduled at the [SI
 Nevertheless, many speakers provided a recording of their presentation. *Huge thanks to all contributors, despite the tough circumstances!*
 <br/><br/>
 
-<h2>Ask the speakers!</h2>
-You can submit questions to the speakers through [this form](https://forms.gle/CYoKhdGGCs4UFCpA8) until **May 10**.
-<br/><br/>
-
 <hr align="left" width="100%">
 ### [Probabilistic Numerical Methods for Cubature](https://www.events.tum.de/frontend/index.php?page_id=3712&v=List&do=15&day=489&ses=1659#anker_session_1659)
 <br/>
